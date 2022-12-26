@@ -1,8 +1,5 @@
 <template>
   <div class="about">
-       <h1>Biodata</h1>
-    <p> Nama : Neni Sari Putri Juana</p>
-    <p> Nim : 11950123432</p>
-  </div>
+    <h1>Welcome to My Profile</h1>
   </div>
 </template>
